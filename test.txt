@@ -1,2 +1,3 @@
 every day is a new day,
-you should cherish it
+you should cherish it.
+now i associate my project with GitHub
